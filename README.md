@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GoddardLevi
+- 👋 Hi, I’m @GoddardLevi aka pufferfish
 - 👀 I’m interested in penetration testing, and finding new ways to obtain information
 - 🌱 I’m currently learning PNPT and OSWP
 - 💞️ I’m looking to collaborate on Anything that relates to cyber security and information gathering.
